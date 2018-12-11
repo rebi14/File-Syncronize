@@ -1,0 +1,9 @@
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\bin\Debug\Syncronize.exe.config
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.csprojResolveAssemblyReference.cache
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.Form1.resources
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.Properties.Resources.resources
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.csproj.GenerateResource.Cache
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\bin\Debug\Syncronize.exe
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\bin\Debug\Syncronize.pdb
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.exe
+c:\users\rabia\documents\visual studio 2015\Projects\Syncronize\Syncronize\obj\Debug\Syncronize.pdb
